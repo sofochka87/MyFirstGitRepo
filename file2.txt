@@ -1,2 +1,2 @@
 apples, oranges
-peach, kiwi
+BANANA, WATERMELON
